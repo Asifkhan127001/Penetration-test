@@ -8,6 +8,8 @@ DNS Footprinting is a technique that is used by an attacker to gather DNS inform
 
 [Website](#website)
 
+[Resource](#Resource)
+
 
 
 ## Tools
@@ -25,6 +27,9 @@ DNSRecon can perform a variety of functions ranging from security assessments to
      dnsrecon -d www.acme.com
 
 
+## Resource 
+
+     https://securitytrails.com/blog/dnsrecon-tool
 
 
 
