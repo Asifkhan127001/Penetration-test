@@ -4,9 +4,9 @@ DNS Footprinting is a technique that is used by an attacker to gather DNS inform
 
 ## Summery
 
-*[Tools](#Tools)
+[Tools](#Tools)
 
-*[Website](#website)
+[Website](#website)
 
 
 
