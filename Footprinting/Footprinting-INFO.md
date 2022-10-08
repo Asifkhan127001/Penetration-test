@@ -31,6 +31,7 @@ Google can be used to uncover many pieces of sensitive information that shouldn�
 8. An Organization’s Website: It’s the best place to begin for an attacker. If an attacker wants to look for open-source information, which is information freely provided to clients, customers, or the general public then simply the best option is: “ORGANISATION’s WEBSITE”. 
 9. Using Neo Trace: NeoTrace is a powerful tool for getting path information. The graphical display displays the route between you and the remote site, including all intermediate nodes and their information. NeoTrace is a well-known GUI route tracer program. Along with a graphical route, it also displays information on each node such as IP address, contact information, and location. 
 10. Who is: This is a website that serves a good purpose for Hackers. Through this website information about the domain name, email-id, domain owner, etc; a website can be traced. Basically, this serves as a way for Website Footprinting.
+11. GITHUB: Github IT service management company overall 99% company project in github so github is best option to find information like any company
 
 
 
