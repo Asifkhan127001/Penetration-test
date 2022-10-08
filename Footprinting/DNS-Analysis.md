@@ -11,3 +11,34 @@
 * [TXT](#TXT)
 * [HINFO](#HINFO)
 * [SRV](#SRV)
+
+
+## A 
+
+
+## MX
+
+
+## NS
+
+
+## CNAME
+
+
+## SOA
+
+
+## PTR 
+
+
+## TXT
+
+
+## HINFO
+
+
+## SRV
+
+
+
+
