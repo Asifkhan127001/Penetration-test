@@ -22,6 +22,7 @@ DNSEnum is a command-line tool that automatically identifies basic DNS records s
 
 DNSRecon can perform a variety of functions ranging from security assessments to basic network troubleshooting by allowing users to: Check DNS server cache records for A, AAAA and CNAME records given a list of host records in a text file
 
+     dnsrecon -d www.acme.com
 
 
 
