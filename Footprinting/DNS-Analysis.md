@@ -1,55 +1,20 @@
-# DNS Analysis
+# What Is DNS Footprinting?
 
-## Summary
+DNS Footprinting is a technique that is used by an attacker to gather DNS information about the target system. DNS Footprinting allows the attacker to obtain information about the DNS Zone Data, Domain Names, Computer Name, Network related information etc..
 
-* [A](#A)
-* [MX](#MX)
-* [NS](#NS)
-* [CNAME](#CNAME)
-* [SOA](#SOA)
-* [PTR](#PTR)
-* [TXT](#TXT)
-* [HINFO](#HINFO)
-* [SRV](#SRV)
+*[Tools](#Tools)
+*[Website](#website)
 
 
-## A 
-A record is an address mapping record, also known as a DNS host record.
+
+## Tools
+DNSEnum is a command-line tool that automatically identifies basic DNS records such as MX, mail exchange servers, NS, domain name servers, or A—the address record for a domain.
+
+      dnsenum --dnsserver 8.8.8.8 example.com
 
 
 
 
-## MX
-The mail server record specifies an SMTP email server.
-
-
-## NS
-It specifies the authoritative Name Server.
-
-
-## CNAME
-Conical Name record, alias record used to alias a hostname to another hostname
-
-
-
-## SOA
-Start of Authority is the authoritative Name server for the current DNS zone.
-
-
-## PTR 
-Pointer records, It allows a DNS resolver to provide an IP address and receive a hostname
-
-
-## TXT
-Text Record, It contains machine-readable data such as DKIM.
-
-
-## HINFO
-Host information record includes CPU type and OS
-
-
-## SRV
-Service Records
 
 
 
