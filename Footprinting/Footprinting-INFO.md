@@ -25,13 +25,16 @@ For example, devices connected to the Internet can be found. A search string suc
 Google can be used to uncover many pieces of sensitive information that shouldn’t be revealed. A term even exists for the people who blindly post this information on the internet, they are called “Google Dorks”. 
 
 4. Social Engineering: There are various techniques that fall in this category. A few of them are: 
-5. Eavesdropping: The attacker tries to record the personal conversation of the target victim with someone that’s being held over communication mediums like the Telephone.
-6. Shoulder Surfing: In this technique, Attacker tries to catch the personal information like email id, password, etc; of the victim by looking over the victim’s shoulder while the same is entering(typing/writing) his/her personal details for some work. 
-7. Archive.org: The Archived version refers to the older version of the website which existed a time before and many features of the website have been changed. archive.org is a website that collects snapshots of all the websites at a regular interval of time. This site can be used to get some information that does not exist now but existed before on the site. 
-8. An Organization’s Website: It’s the best place to begin for an attacker. If an attacker wants to look for open-source information, which is information freely provided to clients, customers, or the general public then simply the best option is: “ORGANISATION’s WEBSITE”. 
-9. Using Neo Trace: NeoTrace is a powerful tool for getting path information. The graphical display displays the route between you and the remote site, including all intermediate nodes and their information. NeoTrace is a well-known GUI route tracer program. Along with a graphical route, it also displays information on each node such as IP address, contact information, and location. 
-10. Who is: This is a website that serves a good purpose for Hackers. Through this website information about the domain name, email-id, domain owner, etc; a website can be traced. Basically, this serves as a way for Website Footprinting.
-11. GITHUB: Github IT service management company overall 99% company project in github so github is best option to find information like any company
+5. Competitive Intelligence : Competitive Intelligence gathering is the process of identifying, gathering, analyzing, and verifying, and using the information about your competitors from sources such as the internet. Monitoring web traffic etc.
+6. DNS Footprinting : Attacker can gather DNS information to determine key hosts in the network
+7. Email Footprinting : Can get recipient's IP address, Geolocation, Email Received and Read, Read Duration, Proxy Detection, Links, OS and Browser info, Forward Email
+8. Eavesdropping: The attacker tries to record the personal conversation of the target victim with someone that’s being held over communication mediums like the Telephone.
+9. Shoulder Surfing: In this technique, Attacker tries to catch the personal information like email id, password, etc; of the victim by looking over the victim’s shoulder while the same is entering(typing/writing) his/her personal details for some work. 
+10. Archive.org: The Archived version refers to the older version of the website which existed a time before and many features of the website have been changed. archive.org is a website that collects snapshots of all the websites at a regular interval of time. This site can be used to get some information that does not exist now but existed before on the site. 
+11. An Organization’s Website: It’s the best place to begin for an attacker. If an attacker wants to look for open-source information, which is information freely provided to clients, customers, or the general public then simply the best option is: “ORGANISATION’s WEBSITE”. 
+12. Using Neo Trace: NeoTrace is a powerful tool for getting path information. The graphical display displays the route between you and the remote site, including all intermediate nodes and their information. NeoTrace is a well-known GUI route tracer program. Along with a graphical route, it also displays information on each node such as IP address, contact information, and location. 
+13. Who is: This is a website that serves a good purpose for Hackers. Through this website information about the domain name, email-id, domain owner, etc; a website can be traced. Basically, this serves as a way for Website Footprinting.
+14. GITHUB: Github IT service management company overall 99% company project in github so github is best option to find information like any company
 
 
 
