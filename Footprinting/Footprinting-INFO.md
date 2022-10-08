@@ -1,5 +1,6 @@
 # What is DNS Footprinting?
-DNS Footprinting is a technique that is used by an attacker to gather DNS information about the target system. DNS Footprinting allows the attacker to obtain information about the DNS Zone Data, Domain Names, Computer Name, Network related information etc..
+
+Footprinting is the technique used for gathering information about computer systems and the entities they belong to. To get this information, a hacker might use various tools and technologies. This information is very useful to a hacker who is trying to crack a whole system.
 
 ## Different kinds of information that can be gathered from Footprinting are as follows:
 
