@@ -15,20 +15,20 @@ DNS Footprinting is a technique that is used by an attacker to gather DNS inform
 
 ## Some of the main records that are important in DNS Footprinting are as follows:
 
-A = A record is an address mapping record, also known as a DNS host record.
+1. A = A record is an address mapping record, also known as a DNS host record.
 
-MX = The mail server record specifies an SMTP email server 
+2. MX = The mail server record specifies an SMTP email server 
 
-NS = 	It specifies the authoritative Name Server.
+3. NS = 	It specifies the authoritative Name Server.
 
-CNMAE = Conical Name record, alias record used to alias a hostname to another hostname
+4. CNMAE = Conical Name record, alias record used to alias a hostname to another hostname
 
-SOA = Start of Authority is the authoritative Name server for the current DNS zone.
+5. SOA = Start of Authority is the authoritative Name server for the current DNS zone.
 
-PTR = Pointer records, It allows a DNS resolver to provide an IP address and receive a hostname
+6. PTR = Pointer records, It allows a DNS resolver to provide an IP address and receive a hostname
 
-TXT = Text Record, It contains machine-readable data such as DKIM.
+7. TXT = Text Record, It contains machine-readable data such as DKIM.
 
-HINFO = Host information record includes CPU type and OS
+8. HINFO = Host information record includes CPU type and OS
 
-SRV = Service Records
+9. SRV = Service Records
