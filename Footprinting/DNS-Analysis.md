@@ -31,11 +31,23 @@ DNSRecon can perform a variety of functions ranging from security assessments to
 WHOIS is a query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block or an autonomous system, but is also used for a wider range of other information.
 
      whois example.com
+     
+## NslookUp
+
+nslookup is a network administration command-line tool with website for querying the Domain Name System to obtain the mapping between domain name and IP address, or other DNS records.
+
+## WhatWeb 
+
+Whatweb is a free and open-source tool available on GitHub. Whatweb is a scanner written in the Ruby language. This tool can identify and recognize all the web technologies available on the target website. This tool can identify technologies used by websites such as blogging, content management system, all JavaScript libraries. Whatweb contains more than 180 modules. each module is responsible for grabbing particular information from the target website.  Whatweb works as an information-gathering tool and can identify all the email addresses, SQL errors, technology used in the website.
+
+      whatweb example.com
 
 
 ## Resource 
 
     https://securitytrails.com/blog/dnsrecon-tool
+    
+    https://medium.com/infosec/all-you-need-to-know-about-footprinting-and-its-techniques-e42cc90c3245
 
 
 ## Website 
@@ -43,3 +55,7 @@ WHOIS is a query and response protocol that is widely used for querying database
     viewdns.info
     
     https://who.is/
+    
+    https://www.nslookup.io/
+    
+    
