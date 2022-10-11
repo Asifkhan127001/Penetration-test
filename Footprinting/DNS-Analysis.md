@@ -4,15 +4,19 @@ DNS Footprinting is a technique that is used by an attacker to gather DNS inform
 
 ## Summery
 
+[Recon](#Recon)
+
 [Tools](#Tools)
 
 [Website](#website)
 
 [Resource](#Resource)
 
+[load balancing detector](#load-balancing-detect)
 
+## 1. Recon
 
-## 1. Tools
+## Tools
 
 ## I. DNSEnum
 
@@ -75,3 +79,36 @@ Nikto is a Web Server Scanner that tests for dangerous files and outdated servic
     https://securitytrails.com/blog/dnsrecon-tool
     
     https://medium.com/infosec/all-you-need-to-know-about-footprinting-and-its-techniques-e42cc90c3245
+    
+
+## load balancing detect
+
+
+      lbd example.com
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
