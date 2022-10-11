@@ -37,10 +37,15 @@ WHOIS is a query and response protocol that is widely used for querying database
 nslookup is a network administration command-line tool with website for querying the Domain Name System to obtain the mapping between domain name and IP address, or other DNS records.
 
 ## WhatWeb 
-
-Whatweb is a free and open-source tool available on GitHub. Whatweb is a scanner written in the Ruby language. This tool can identify and recognize all the web technologies available on the target website. This tool can identify technologies used by websites such as blogging, content management system, all JavaScript libraries. Whatweb contains more than 180 modules. each module is responsible for grabbing particular information from the target website.  Whatweb works as an information-gathering tool and can identify all the email addresses, SQL errors, technology used in the website.
+This tool simply gives answer to the question, “What is that Website?”. It can gather informations such as Platform, Type of script, Google Analytics, Web Server Platform, Ip Address, Country, Server Headers, Cookies etc...
 
       whatweb example.com
+      
+## p0f
+
+It is a technique that analyzes the structure of TCP/IP packet to determine the operating system and other configuration property of a remote host. p0f is basically a forensic tool, which can also be used while doing forensics on a compromised system or a system under attack. Steps to run p0f
+
+      p0f 
 
 
 ## Website 
