@@ -83,8 +83,9 @@ Nikto is a Web Server Scanner that tests for dangerous files and outdated servic
 
 ## load balancing detect
 
+chech which ip run load balancing detected
 
-      lbd example.com
+    lbd example.com
     
     
     
