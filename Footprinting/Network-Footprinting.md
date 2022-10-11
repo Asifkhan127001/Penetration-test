@@ -14,7 +14,7 @@ Network Footprinting meains find all networks details abouts like
 
 [SERVICE](#SERVICE)
 
-[SERVICE VERSION(#SERVICE-VERSION)
+[SERVICE VERSION](#SERVICE-VERSION)
 
 [OS](#OS)
 
