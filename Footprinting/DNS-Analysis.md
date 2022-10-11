@@ -14,6 +14,8 @@ DNS Footprinting is a technique that is used by an attacker to gather DNS inform
 
 [load balancing detector](#load-balancing-detect)
 
+[WAF detector](#WAF-detector)
+
 ## 1. Recon
 
 ## Tools
@@ -88,7 +90,9 @@ chech which ip run load balancing detected
     lbd example.com
     
     
-    
+## WAF Detector 
+
+    wafw00f -a example.com
     
     
     
