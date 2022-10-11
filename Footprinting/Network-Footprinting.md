@@ -18,9 +18,8 @@ Network Footprinting meains find all networks details abouts like
 
 [OS](#OS)
 
-[IDS](#IDS)
+[IDS vs IPS](#IDS-vs-IPS)
 
-[IPS](#IPS)
 
 
 ## 1. IP
