@@ -43,13 +43,6 @@ Whatweb is a free and open-source tool available on GitHub. Whatweb is a scanner
       whatweb example.com
 
 
-## Resource 
-
-    https://securitytrails.com/blog/dnsrecon-tool
-    
-    https://medium.com/infosec/all-you-need-to-know-about-footprinting-and-its-techniques-e42cc90c3245
-
-
 ## Website 
 
     viewdns.info
@@ -59,3 +52,8 @@ Whatweb is a free and open-source tool available on GitHub. Whatweb is a scanner
     https://www.nslookup.io/
     
     
+## Resource 
+
+    https://securitytrails.com/blog/dnsrecon-tool
+    
+    https://medium.com/infosec/all-you-need-to-know-about-footprinting-and-its-techniques-e42cc90c3245
