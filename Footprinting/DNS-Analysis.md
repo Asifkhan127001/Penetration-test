@@ -47,6 +47,19 @@ It is a technique that analyzes the structure of TCP/IP packet to determine the 
 
     p0f 
 
+## Recon-ng 
+
+Recon-ng, tool written in Python is specially used for information gathering with its independent modules, keys list and other modules.
+
+## Google Dorks
+
+Query string can be used in search and can be used as keywords. Also Google Advance Search Operators can be utilized in order to gather information about the target host. For further information regarding google dork, you can click the link here.
+
+You can also refer to Google Hacking Database (GHD) to explore different search terms that have been found to reveal sensitive data exposed by vulnerable servers and web applications.
+
+## Nikto 
+
+Nikto is a Web Server Scanner that tests for dangerous files and outdated service software, whose details can be exploited and used to hack the network. These results can be utilized to understand the weaknesses of the network or application according to which you can choose relevant attacks to hack the network.
 
 ## Website 
 
