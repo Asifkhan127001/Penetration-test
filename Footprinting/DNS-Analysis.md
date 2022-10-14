@@ -20,6 +20,12 @@ DNS Footprinting is a technique that is used by an attacker to gather DNS inform
 
 ## Tools
 
+## FinalRecon
+
+This Tools is find everythinks like Footprinting and recon process
+
+     finalrecon -h
+
 ## I. DNSEnum
 
 DNSEnum is a command-line tool that automatically identifies basic DNS records such as MX, mail exchange servers, NS, domain name servers, or A—the address record for a domain.
