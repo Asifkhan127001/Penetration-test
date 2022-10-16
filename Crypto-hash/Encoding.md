@@ -28,3 +28,40 @@
         flag = "72bca9b68fc16ac7beeb8f849dca1d8a783e8acf9679bf9269f7bf"
         flag = bytes.fromhex (flag);
         print(base64_encode(flag));
+
+
+
+##  4. Bytes and Big Integers
+
+1. Cryptosystems like RSA works on numbers, but messages are made up of characters. How should we convert our messages into numbers so that mathematical operations can be applied?
+2. The most common way is to take the ordinal bytes of the message, convert them into hexadecimal, and concatenate. This can be interpreted as a base-16 number, and also represented in base-10.
+3. Convert the following integer back into a message: "11515195063862318899931685488813747395775516287289682636499965282714637259206269"
+4.  Python's PyCryptodome library implements this with the methods bytes_to_long() and long_to_bytes(). You will first have to install PyCryptodome and import it with from Crypto.Util.number import *
+
+        from Crypto.Util.number import *
+print(long_to_bytes(11515195063862318899931685488813747395775516287289682636499965282714637259206269));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
