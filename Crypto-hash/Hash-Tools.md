@@ -25,3 +25,4 @@
 ## 3. Hash Identify Website 
 
     https://gchq.github.io/CyberChef/
+    https://hashes.com/en/tools/hash_identifier
