@@ -1,17 +1,17 @@
 # Hash 
 
-[Hash Identify Tools](#Hash-Identify-Tools)
+[Hash Identify](#Hash-Identify)
 
-[Hash Identify Website](#Hash-Identify-Website) 
-
-
+[Hash Crack](#Hash-Crack) 
 
 
 
 
 
 
-## Hash Identify Tools
+
+
+## Hash Identify
 
 ## 1. hash Identifier 
 
@@ -28,3 +28,31 @@
     https://gchq.github.io/CyberChef/
     https://hashes.com/en/tools/hash_identifier
     https://www.tunnelsup.com/hash-analyzer/
+
+
+## Hash Crack 
+
+## 1. Hashcat
+
+      hashcat -m 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
