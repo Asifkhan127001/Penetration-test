@@ -19,9 +19,9 @@
    
 ## 2. Name That Hash
 
-      nth -t 'hash-value'
+    nth -t 'hash-value'
       
       
 ## 3. Hash Identify Website 
 
-      https://gchq.github.io/CyberChef/
+    https://gchq.github.io/CyberChef/
