@@ -13,6 +13,12 @@
 
 ## Hash Identify
 
+## 1. haiti 
+
+      gem install haiti-hash
+      
+      haiti 741ebf5166b9ece4cca88a386...hbedyew
+
 ## 1. hash Identifier 
 
    run the tools and past the hash and identify which hash is run 
