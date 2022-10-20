@@ -40,7 +40,7 @@
 
 ## 1. Hashcat
 
-     hashcat -a 0 -m 0 hash.txt worlist.txt
+     hashcat -a 0 -m 0 hash.txt worlist.txt --status 
 
 
 
