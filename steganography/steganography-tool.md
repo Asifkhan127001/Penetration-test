@@ -21,8 +21,10 @@ EXIFtool
 
 Steghide 
 
+1. check file is exits 
+
     steghide info Extinction.jpg 
     
-Extract File
+2. Extract File
 
     steghide extract -sf Extinction.jpg 
