@@ -23,7 +23,7 @@ Steghide
 
 1. check file is exits 
 
-      steghide info asifkhan.jpg 
+        steghide info asifkhan.jpg 
     
 2. Extract File
 
