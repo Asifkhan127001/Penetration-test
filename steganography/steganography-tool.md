@@ -5,8 +5,24 @@ in such a manner that the presence of the information is not evident to human in
 
 [Tools](#tools)
 
+[Hidden Data](#FIND-Hidden-Data)
+
+[Hidden File](#Hidden-File)
+
 # Tools
 
-## EXIFtool
+## Find Hidden Data
 
-     exiftool Findme.jpg
+EXIFtool 
+
+    exiftool Findme.jpg
+    
+## Find Hidden Files
+
+Steghide 
+
+    steghide info Extinction.jpg 
+    
+Extract File
+
+     steghide extract -sf Extinction.jpg 
