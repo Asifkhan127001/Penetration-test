@@ -25,4 +25,4 @@ Steghide
     
 Extract File
 
-     steghide extract -sf Extinction.jpg 
+    steghide extract -sf Extinction.jpg 
