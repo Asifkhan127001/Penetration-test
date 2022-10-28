@@ -11,6 +11,8 @@ in such a manner that the presence of the information is not evident to human in
 
 [Find Data In Binary File](#find-data-in-binary-file)
 
+[Extract Binary Code In Image](#extract-binary-code-in-image)
+
 # Tools
 
 ## 1. Find Hidden Data in images
@@ -45,7 +47,13 @@ Strings will find all strings within the binary file
     strings hello.hello | grep "THM{"
     
     
-    
+## 5. Extract Binary Code In Image    
+
+xxd
+
+creates  a  hex  dump  of a given file or standard input
+
+      
     
     
     
