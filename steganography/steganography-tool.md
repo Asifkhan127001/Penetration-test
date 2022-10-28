@@ -19,11 +19,15 @@ in such a manner that the presence of the information is not evident to human in
 
 EXIFtool 
 
+EXIFtool is show the message in images
+
     exiftool Findme.jpg
     
 ## 2.Find Hidden Files in images
 
 Steghide 
+
+Steghide is hide file in images and extract file in images
 
 1. check file is exits 
 
