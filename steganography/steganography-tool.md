@@ -57,7 +57,7 @@ xxd
 
 creates  a  hex  dump  of a given file or standard input
 
-      
+     xxd --plain image.png > output.txt  
     
     
     
