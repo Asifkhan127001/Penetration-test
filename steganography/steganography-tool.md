@@ -42,7 +42,7 @@ Strings
   
 Strings will find all strings within the binary file 
    
-     strings hello.hello | grep "THM{"
+    strings hello.hello | grep "THM{"
     
     
     
