@@ -9,15 +9,17 @@ in such a manner that the presence of the information is not evident to human in
 
 [Attach File in Images](#attach-file-in-images)
 
+[Find Data In Binary File](#find-data-in-binary-file)
+
 # Tools
 
-## Find Hidden Data in images
+## 1. Find Hidden Data in images
 
 EXIFtool 
 
     exiftool Findme.jpg
     
-## Find Hidden Files in images
+## 2.Find Hidden Files in images
 
 Steghide 
 
@@ -29,6 +31,45 @@ Steghide
 
        steghide extract -sf asifkhan.jpg 
 
-## Add file in images 
+## 3. Add file in images 
 
     steghide embed -ef windows.exe -cf asifkhan
+    
+    
+## 4. Find Data In Binary Files    
+
+Strings
+  
+Strings will find all strings within the binary file 
+   
+       strings hello.hello | grep "THM{"
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
