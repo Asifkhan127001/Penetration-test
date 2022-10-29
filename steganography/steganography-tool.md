@@ -9,6 +9,8 @@ in such a manner that the presence of the information is not evident to human in
 
 [Attach File in Images](#attach-file-in-images)
 
+[Find data in QR-CODE Image](#find-data-in-qr-code-images)
+
 [Find Data In Binary File](#find-data-in-binary-file)
 
 [Extract Binary Code In Image](#extract-binary-code-in-image)
@@ -47,6 +49,10 @@ Steghide is hide file in images and extract file in images
 
     steghide embed -ef windows.exe -cf asifkhan
     
+    
+## Find Data in QR-CODE Image
+
+simple QR code scan and find data
     
 ## 4. Find Data In Binary Files    
 
