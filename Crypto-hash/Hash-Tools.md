@@ -4,6 +4,8 @@
 
 [Hash Crack](#Hash-Crack) 
 
+[Hash-Decode-Website](#Hash-decode-website)
+
 
 
 
@@ -31,7 +33,6 @@
       
 ## 3. Hash Identify Website 
 
-    https://gchq.github.io/CyberChef/
     https://hashes.com/en/tools/hash_identifier
     https://www.tunnelsup.com/hash-analyzer/
 
@@ -43,7 +44,12 @@
      hashcat -a 0 -m 0 hash.txt worlist.txt --status 
 
 
+## Hash Decod Website
 
+     https://www.rapidtables.com/convert/number/decimal-to-hex.html
+     https://gchq.github.io/CyberChef/
+     
+     
 
 
 
