@@ -1,5 +1,13 @@
 # Encoding
 
+[ASCII](#ASCII)
+
+[HEX](#HEX)
+
+[Base64](#base64)
+
+[TEXT decod](Text-decode)
+
 ## 1. ASCII
 
 1. ASCII is a 7-bit encoding standard which allows the representation of text using the integers 0-127.
@@ -44,7 +52,18 @@
         print(long_to_bytes(11515195063862318899931685488813747395775516287289682636499965282714637259206269));
 
 
+## Text Decode
 
+Vigenere Cipher
+
+Vigenere Cipher is a method of encrypting alphabetic text. like
+
+      https://gchq.github.io/CyberChef/
+      vigenere Decoder 
+      
+Enter The key and find data 
+
+     
 
 
 
