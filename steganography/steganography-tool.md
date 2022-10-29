@@ -17,6 +17,8 @@ in such a manner that the presence of the information is not evident to human in
 
 [Binary Images Extract file](#binary-images-extract-file)
 
+[Dark Images Find Photos](#dark-images-find-photos)
+
 # Tools
 
 ## 1. Find Hidden Data in images
@@ -96,7 +98,23 @@ binwalk - tool for searching binary images for embedded files and executable cod
 Boom Find The  file
     
     
-    
+## Dark Images Find Photos
+
+You have a images and open but is dark but images behind some seen y code so use tools and find code y images
+
+stegsolve
+
+Stegsolve tools to help find code in dark images 
+
+install 
+
+      #!/bin/bash -ex
+
+wget http://www.caesum.com/handbook/Stegsolve.jar -O stegsolve.jar
+chmod +x stegsolve.jar
+mkdir bin
+mv stegsolve.jar bin/
+ 
     
     
     
