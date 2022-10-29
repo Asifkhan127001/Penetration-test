@@ -13,6 +13,8 @@ in such a manner that the presence of the information is not evident to human in
 
 [Extract Binary Code In Image](#extract-binary-code-in-image)
 
+[Check signature]
+
 # Tools
 
 ## 1. Find Hidden Data in images
@@ -60,7 +62,23 @@ creates  a  hex  dump  of a given file or standard input
     xxd --plain image.png > output.txt  
     
     
-    
+## Check signature
+
+hexedit 
+
+hexedit tool is check signature 
+
+     hexedit asifkhan.png
+     
+resource 
+
+Check singnature code 
+
+      https://en.wikipedia.org/wiki/List_of_file_signatures
+      
+This website is help to change singnature 
+
+     https://hexed.it/
     
     
     
