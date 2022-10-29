@@ -76,7 +76,7 @@ Check singnature code
 
     https://en.wikipedia.org/wiki/List_of_file_signatures
       
-This website is help to change singnature 
+This website is help to change singnature like extrat hex value and crack it so error like Invalid file type so change the singnatures code 
 
     https://hexed.it/
     
