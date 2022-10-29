@@ -13,7 +13,9 @@ in such a manner that the presence of the information is not evident to human in
 
 [Extract Binary Code In Image](#extract-binary-code-in-image)
 
-[Check signature]
+[Check signature](#Check-signature)
+
+[Binary Images Extract file](#binary-images-extract-file)
 
 # Tools
 
@@ -81,7 +83,17 @@ This website is help to change singnature like extrat hex value and crack it so 
     https://hexed.it/
     
     
-    
+## Binary Images Extract file
+
+binwalk
+
+binwalk - tool for searching binary images for embedded files and executable code
+
+     binwalk -B hell.jpg
+     cp hell.jpg hello.zip
+     unzip hello.zip
+     
+Boom Find The  file
     
     
     
