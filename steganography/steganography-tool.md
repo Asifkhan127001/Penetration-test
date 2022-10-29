@@ -106,15 +106,18 @@ stegsolve
 
 Stegsolve tools to help find code in dark images 
 
-install 
+install code  
 
-      #!/bin/bash -ex
+    #!/bin/bash -ex
 
-wget http://www.caesum.com/handbook/Stegsolve.jar -O stegsolve.jar
-chmod +x stegsolve.jar
-mkdir bin
-mv stegsolve.jar bin/
+    wget http://www.caesum.com/handbook/Stegsolve.jar -O stegsolve.jar
+    chmod +x stegsolve.jar
+    mkdir bin
+    mv stegsolve.jar bin/
  
+ run 
+ 
+    java -jar stegsolve.jar
     
     
     
