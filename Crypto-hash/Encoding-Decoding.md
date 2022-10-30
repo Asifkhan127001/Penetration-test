@@ -60,6 +60,7 @@ Vigenere Cipher is a method of encrypting alphabetic text. like
 
       https://gchq.github.io/CyberChef/
       vigenere Decoder 
+      rot13
       
       http://www.robertecker.com/hp/research/leet-converter.php
       
