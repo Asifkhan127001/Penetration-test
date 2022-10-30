@@ -8,6 +8,8 @@
 
 [TEXT decod](Text-decode)
 
+[morse code](#morse-code)
+
 ## 1. ASCII
 
 1. ASCII is a 7-bit encoding standard which allows the representation of text using the integers 0-127.
@@ -76,6 +78,12 @@ Enter The key and find data
 
 
 
+## Morse Code 
+
+    
+     - . .-.. . -.-. --- -- -- ..- -. .. -.-. .- - .. --- -.
+
+     . -. -.-. --- -.. .. -. --.
 
 
 
