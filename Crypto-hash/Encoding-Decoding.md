@@ -61,6 +61,8 @@ Vigenere Cipher is a method of encrypting alphabetic text. like
       https://gchq.github.io/CyberChef/
       vigenere Decoder 
       
+      http://www.robertecker.com/hp/research/leet-converter.php
+      
 Enter The key and find data 
 
      
