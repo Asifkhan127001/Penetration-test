@@ -66,10 +66,15 @@ The File Transfer Protocol is a standard communication protocol used for the tra
   
     ftp Ip
     
-  ## Step 8 
+  ## STEP 8 
   Brute Force 
   
      hydra -l user -P passlist.txt ftp://192.168.0.1
+     
+  ## STEP 9
+  Downlods file in ftp server like
+     
+     get file.txt
    
  ## FTP CONFIG FILE 
  
