@@ -93,7 +93,7 @@ The File Transfer Protocol is a standard communication protocol used for the tra
     
    use nmap find information
    
-    nmap -A -p22 IP
+    nmap -A -p22 -sV IP
        
    STEP 2
   
@@ -134,7 +134,10 @@ The File Transfer Protocol is a standard communication protocol used for the tra
     ssh IP
     SSH -i key Login
     
-    
+ ## Brute Force  
+ 
+    hydra -l user -P passlist.txt ftp://192.168.0.1
+
     
     
     
