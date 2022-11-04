@@ -4,6 +4,8 @@
 
 The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).
 
+[Install rustscan](#Install-rustscan)
+
 [Port Scan](#port-scan)
 
 [Multiple IP Scanning](#Multiple-IP-Scanning)
@@ -29,11 +31,11 @@ The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scri
 
 ## Port Scan 
 
-      rustscan -r 1-65535 ip ip ip
+      rustscan -r 1-65535 ip
       
 ## Multiple IP Scanning
 
-     rustscan -a ip 
+     rustscan -a ip ip ip i[
       
 ## CIDR
 
