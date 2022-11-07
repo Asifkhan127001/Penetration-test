@@ -199,7 +199,11 @@ Use username and access the smb server
 
      smbclient -U chuck \\\\10.10.136.182\\nerdherd_classified
 
+## STEP 9
 
+Downlods file use the command 
+
+     get file.txt
 
 
 
