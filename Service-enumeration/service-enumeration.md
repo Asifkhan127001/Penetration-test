@@ -147,5 +147,41 @@ Samba is the standard Windows interoperability suite of programs for Linux and U
 Samba is based on the common client/server protocol of Server Message Block (SMB). SMB is developed only for Windows, without Samba, other computer platforms would be isolated from Windows machines, even if they were part of the same network.
   
   
-  
+## STEP 1
+
+Nmap Check which Port open and run smb server and version 
+
+    nmap -p139,445 -sV 
+    
+## STEP 2      
+
+Use Nmap script like
+
+     smb-enum-shares.nse
+     smb-enum-users.nse
+     etc....
+
+## STEP 3 
+
+Check Anonymous Login
+
+      smbclient //10.10.141.111/anonymous
+
      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
