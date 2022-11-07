@@ -193,7 +193,11 @@ A folder named “nerdherd_classified” is shared. Let’s try access it:
 
      smbclient -L //10.10.136.182/nerdherd_classified
 
+## STEP 8 
 
+Use username and access the file 
+
+     smbclient -L //10.10.136.182/nerdherd_classified -U asif
 
 
 
