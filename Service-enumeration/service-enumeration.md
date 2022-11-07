@@ -161,6 +161,13 @@ Use Nmap script like
      smb-enum-users.nse
      etc....
 
+## STEP 3
+
+Enumeration tool use 
+
+     enum4linux -a IP
+
+
 ## STEP 3 
 
 Check Anonymous Login
