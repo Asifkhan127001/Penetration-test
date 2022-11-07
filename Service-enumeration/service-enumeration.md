@@ -181,6 +181,11 @@ Downlods smb server file
     smbget -R smb://10.10.141.111/anonymous
 
 
+## STEP 6 
+
+Now let’s see which folder is shared on SMB:
+
+    smbclient -L //10.10.136.182/
 
 
 
