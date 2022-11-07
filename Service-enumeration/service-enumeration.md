@@ -165,9 +165,13 @@ Use Nmap script like
 
 Check Anonymous Login
 
-      smbclient //10.10.141.111/anonymous
+     smbclient //10.10.141.111/anonymous
 
-     
+## STEP 4
+
+Downlods smb server file 
+
+     smbget -R smb://10.10.141.111/anonymous
 
 
 
