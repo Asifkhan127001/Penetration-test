@@ -33,5 +33,34 @@
         JAVA_HOME="/usr/lib/jvm/jre1.8.0_351"
         DERBY_HOME="/usr/lib/jvm/jre1.8.0_351/db"  
 
+8. Save and close the file.
+9. Enter Following commands in your Terminal
+
+       sudo update-alternatives --install "/usr/bin/java" "java" "/usr/lib/jvm/jre1.8.0_351/bin/java" 0
+       sudo update-alternatives --install "/usr/bin/javac" "javaws" "/usr/lib/jvm/jre1.8.0_351/bin/javaws" 0
+       sudo update-alternatives --set java /usr/lib/jvm/jre1.8.0_351/bin/java
+       sudo update-alternatives --set javaws /usr/lib/jvm/jre1.8.0_351/bin/javaws
+      
+10. Verify the setup
+
+      update-alternatives --list java
+      update-alternatives --list javac
+      
+11. Check the Java Version
+
+      java -version
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
