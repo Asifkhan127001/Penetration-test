@@ -43,12 +43,12 @@
       
 10. Verify the setup
 
-      update-alternatives --list java
-      update-alternatives --list javac
+        update-alternatives --list java
+        update-alternatives --list javac
       
 11. Check the Java Version
 
-      java -version
+        java -version
 
 
 
