@@ -11,23 +11,28 @@
 
 
 
-/usr/lib/jvm/jdk1.8.0_/bin
-/usr/lib/jvm/jdk1.8.0_/db/bin
-/usr/lib/jvm/jdk1.8.0_/jre/bin
+     PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+POWERSHELL_UPDATECHECK=Off
+POWERSHELL_TELEMETRY_OPTOUT=1
+DOTNET_CLI_TELEMETRY_OPTOUT=1
+# STOP KALI-DEFAULTS CONFIG
+/usr/lib/jvm/jre1.8.0_351/bin
+/usr/lib/jvm/jre1.8.0_351/db/bin
+/usr/lib/jvm/jre1.8.0_351/jre/bin
 
-J2SDKDIR="/usr/lib/jvm/jdk1.8.0_"
-J2REDIR="/usr/lib/jvm/jdk1.8.0_/jre"
-JAVA_HOME="/usr/lib/jvm/jdk1.8.0_"
-DERBY_HOME="/usr/lib/jvm/jdk1.8.0_/db"
+J2SDKDIR="/usr/lib/jvm/jre1.8.0_351"
+J2REDIR="/usr/lib/jvm/jre1.8.0_351/jre"
+JAVA_HOME="/usr/lib/jvm/jre1.8.0_351"
+DERBY_HOME="/usr/lib/jvm/jre1.8.0_351/db"
 
 PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
 
-PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/jdk1.8.0_/bin:/usr/lib/jvm/jdk1.8.0_/db/bin:/usr/lib/jvm/jdk1.8.0_/jre/bin"
-J2SDKDIR="/usr/lib/jvm/jdk1.8.0_"
-J2REDIR="/usr/lib/jvm/jdk1.8.0_/jre"
-JAVA_HOME="/usr/lib/jvm/jdk1.8.0_"
-DERBY_HOME="/usr/lib/jvm/jdk1.8.0_/db"  
-
+PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/jre1.8.0_351/bin:/usr/lib/jvm/jre1.8.0_351/db/bin:/usr/lib/jvm/jre1.8.0_351/jre/bin"
+J2SDKDIR="/usr/lib/jvm/jre1.8.0_351"
+J2REDIR="/usr/lib/jvm/jre1.8.0_351/jre"
+JAVA_HOME="/usr/lib/jvm/jre1.8.0_351"
+DERBY_HOME="/usr/lib/jvm/jre1.8.0_351/db"  
 
 
 
