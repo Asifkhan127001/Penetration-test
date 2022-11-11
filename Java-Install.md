@@ -11,12 +11,11 @@
 
 
 
-     PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+        PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
 COMMAND_NOT_FOUND_INSTALL_PROMPT=1
 POWERSHELL_UPDATECHECK=Off
 POWERSHELL_TELEMETRY_OPTOUT=1
 DOTNET_CLI_TELEMETRY_OPTOUT=1
-# STOP KALI-DEFAULTS CONFIG
 /usr/lib/jvm/jre1.8.0_351/bin
 /usr/lib/jvm/jre1.8.0_351/db/bin
 /usr/lib/jvm/jre1.8.0_351/jre/bin
