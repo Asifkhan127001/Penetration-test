@@ -12,3 +12,21 @@ gather information about an individual or organization. This information can the
 5. Website
 6. News
 7. Articals 
+
+## Tools
+
+1. Maltego
+2. Mitaka
+3. SpiderFoot
+4. Spyse
+5. BuiltWith
+6. Intelligence X
+7. DarkSearch.io
+8. Grep.app
+9. Recon-ng
+10. theHarvester
+11. Shodan
+12. Metagoofil
+13. Searchcode
+14. SpiderFoot
+15. Babel X
