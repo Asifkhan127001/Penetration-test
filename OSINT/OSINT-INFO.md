@@ -12,6 +12,11 @@ gather information about an individual or organization. This information can the
 5. Website
 6. News
 7. Articals 
+8. whois
+9. nslookup
+10. crunchbase
+11. sam.gov
+12. gsaelibrary.gsa.gov
 
 ## Tools
 
