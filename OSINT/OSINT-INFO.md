@@ -12,11 +12,8 @@ gather information about an individual or organization. This information can the
 5. Website
 6. News
 7. Articals 
-8. whois
-9. nslookup
-10. crunchbase
-11. sam.gov
-12. gsaelibrary.gsa.gov
+8. Government Site
+9. Database (crunchbase.com)
 
 ## Tools
 
@@ -35,3 +32,8 @@ gather information about an individual or organization. This information can the
 13. Searchcode
 14. SpiderFoot
 15. Babel X
+16. whois
+17. nslookup
+18. crunchbase.com
+19. sam.gov
+20. gsaelibrary.gsa.gov
