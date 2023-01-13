@@ -7,11 +7,11 @@
      
 2. Find Subnet 
 
-       fping -g 192.168.12.0/24 2>/dev/null
-       fping -g 192.168.12.0 192.168.12.255 2>/dev/null
-       nmap 192.168.12.0/24 
+       fping -g -a 192.168.12.0/24 2>/dev/null
+       fping -g -a 192.168.12.0 192.168.12.255 2>/dev/null
+       nmap -sn 192.168.12.0/24 
       
       
-3. find Live Subnet
+3. Find OS 
 
-       fping -a -g 192.168.12.0/24 2>/dev/null      
+       Nmap -A -O IP      
