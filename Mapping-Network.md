@@ -24,3 +24,33 @@
        Nmap -sT -p- IP/24
        NMAP -sS -p- IP/24
        Nmap -sU -p- IP/24
+       Nmap -sT -p- 200.200.*.*
+             
+
+5. Find Service Version
+
+       Nmap -sV -p21 IP
+       nmap -sV --version-light IP
+       Nmap -sT -sV 200.200.*.*
+       
+
+6. Find Ports Specifying Ranges
+
+       Nmap -p- 200.200.6-12.*  
+       
+       
+7. Scan Limited Number OF Targets   
+
+      Nmap <scan type> 10.14.33.1,3,17   
+       
+       
+8. Scan IP List       
+       
+       Nmap <scan type> -iL IPList.txt
+       
+       
+       
+       
+       
+       
+       
