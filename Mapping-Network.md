@@ -41,7 +41,7 @@
        
 7. Scan Limited Number OF Targets   
 
-      Nmap <scan type> 10.14.33.1,3,17   
+       Nmap <scan type> 10.14.33.1,3,17   
        
        
 8. Scan IP List       
