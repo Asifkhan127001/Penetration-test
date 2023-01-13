@@ -14,6 +14,7 @@
       
 3. Find OS 
 
-       Nmap -A -O IP
-       Nmap -O --osscan-guess IP
-       Nmap -O --osscan-limit IP
+       Nmap -sT -O IP/24
+       Nmap -sT -O --osscan-guess IP/24
+       Nmap -sT -O --osscan-limit IP/24
+       Nmap -A IP/24
