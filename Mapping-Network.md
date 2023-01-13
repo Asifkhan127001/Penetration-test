@@ -18,3 +18,9 @@
        Nmap -sT -O --osscan-guess IP/24
        Nmap -sT -O --osscan-limit IP/24
        Nmap -A IP/24
+
+4. Find Open PORTS
+
+       Nmap -sT -p- IP/24
+       NMAP -sS -p- IP/24
+       Nmap -sU -p- IP/24
