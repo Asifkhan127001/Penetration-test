@@ -21,8 +21,8 @@
 
 4. Find Open PORTS
 
-       Nmap -sT -p- IP/24
-       NMAP -sS -p- IP/24
+       Nmap -Pn -sT -p- IP/24
+       NMAP -Pn -sS -p- IP/24
        Nmap -sU -p- IP/24
        Nmap -sT -p- 200.200.*.*
              
@@ -49,7 +49,12 @@
        Nmap <scan type> -iL IPList.txt
        
        
-       
+9. Network Vulnerblity Scanners
+
+       OpenVAS
+       Nessus
+       Nexpose
+       GFILanGuard
        
        
        
