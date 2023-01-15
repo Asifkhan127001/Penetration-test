@@ -6,31 +6,31 @@
   ## SSH ENUMERATION
   
     
-   use nmap find information
+## use nmap find information
    
     nmap -A -p22 -sV IP
        
   
-  Use nmap Script Just Like
+## Use nmap Script Just Like
     
     ssh2-enum-algos.nse
     ssh-brute.nse
 
    
-   Use Metasploit auxiliary Find Information
+## Use Metasploit auxiliary Find Information
     
     auxiliary/scanner/ssh/ssh_enumusers
     auxiliary/scanner/ssh/ssh_version
     auxiliary/scanner/ssh/ssh_login 
     auxiliary/scanner/ssh/ssh_login_pubkey
     
-   ## BANNER GRABBING
+## BANNER GRABBING
      
      nmap -sV — script=banner  IP
      telnet IP 22
      nc IP 22
      
-   Find Version Search Exploit
+## Find Version Search Exploit
     
     google
     searchsploit
