@@ -40,7 +40,7 @@
     
   ## SSH LOGIN
     
-    ssh IP
+    ssh username@IP
     SSH -i key Login
     
  ## Brute Force  
