@@ -22,6 +22,8 @@
 
 [Show Crack Password](#Show-Crack-password)
 
+[Crack Ms-Office file .docx](#Crack Ms-Office file .docx)
+
 ## Basic Use
 
     john hash.txt
@@ -148,9 +150,11 @@ This attack use file like zip file tar file etc
   
     
     
+## 11. Crack Ms-Office file .docx    
     
-    
-    
+        office2john filename.docx > hash.txt
+        john --wordlist=wordlist hash.txt
+        
     
     
     
