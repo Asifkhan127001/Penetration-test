@@ -26,8 +26,8 @@ metasploit have many exploits, so find vulnerablity use metasploit execute RCE
 2. search CVE
 3. serch Service version
 
-      search EternalBlue
-      search CVE-2017-0143
-      search vsftpd 2.3.4
+        search EternalBlue
+        search CVE-2017-0143
+        search vsftpd 2.3.4
 
 
