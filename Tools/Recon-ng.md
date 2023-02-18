@@ -21,6 +21,8 @@ Recon-ng is a Web Reconnaissance tool written in Python.
 
 *[set urls](#set-urls)
 
+*[set Domain](#set-domain)
+
 *[Run](#Run)
 
 *[check keys list](#check-keys-list)
@@ -73,6 +75,10 @@ Recon-ng is a Web Reconnaissance tool written in Python.
  
     options set SOURCE example.com
     
+## set Domain
+
+     add domain example.com
+     
 ## Run
 
     run
