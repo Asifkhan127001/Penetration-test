@@ -1,31 +1,15 @@
-                                      
-                                              
-                                              
-                                              
-                                              
- ## Sudo Enumeration 
- 
- 
-   
-                 sudo -l
-                 sudo --version
-                 sudo apache2 -f /etc/shadow
+## Sudo Enumeration 
+    
+     sudo -l
+     sudo --version
+     sudo apache2 -f /etc/shadow
                  
                  
-		 
-		 
-		 
-   ## Sudo resource		 
+## Sudo resource		 
    
    https://gtfobins.github.io/
    
-   
-   
-   
-   
-   
-   
-   ### LD_PRELOAD and NOPASSWD
+### LD_PRELOAD and NOPASSWD
 
 If `LD_PRELOAD` is explicitly defined in the sudoers file
 
