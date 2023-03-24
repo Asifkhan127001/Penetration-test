@@ -11,6 +11,8 @@
    ## Resource 
    
      https://gtfobins.github.io/
+     https://dev.to/christinec_dev/try-hack-me-linux-privesc-complete-write-up-20fg
+     https://tryhackme.com/room/linprivesc
        
   ## Shared Object Injection
   
