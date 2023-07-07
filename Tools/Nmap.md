@@ -51,7 +51,7 @@ system detection
 5. github downlods script  and install 
 
        sudo git clone https://github.com/scipag/vulscan /usr/share/nmap/script/
-       sudo git clone https://github.com/vulnersCom/nmap-vulners.git /usr/share/nmap/script/
+       sudo git clone https://github.com/vulnersCom/nmap-vulners /usr/share/nmap/script/
        sudo chmod 777 *
        
 6. Github Downlods script run       
