@@ -11,7 +11,7 @@ system detection
 
 [Scan targets from a file](#Scan-targets-from-a-file)
 
-[Nmap script](nmap-script)
+[Nmap script](#nmap-script)
 
 
 ## Scan a range
