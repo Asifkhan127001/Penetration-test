@@ -15,8 +15,8 @@ SNMAP protocol is used to monitor and manage network devices like PCs, Router,Sw
 
 1. Find Information
 
-      snmp-check IP
+        snmp-check IP
 
 2. Finding Running Processes useing Nmap Script
 
-     nmap -sU -p 161 --script=snmp-processes IP
+       nmap -sU -p 161 --script=snmp-processes IP
