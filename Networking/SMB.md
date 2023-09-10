@@ -10,6 +10,10 @@ Network file sharing protocol that allows apllications on computer to read and w
 4. Security level information
 5. Domains & Services
 
+## Enumerating Shares
+
+    nmap -p 445 --script smb-enum-shares IP
+    
 ## Nmap Check which Port open and run smb server and version 
 
     nmap -p139,445 -sV 
