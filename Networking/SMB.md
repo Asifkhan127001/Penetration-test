@@ -13,6 +13,12 @@ Network file sharing protocol that allows apllications on computer to read and w
 ## Enumerating Shares
 
     nmap -p 445 --script smb-enum-shares IP
+
+## Connect SMB GUI Method 
+
+1. Open file and search
+
+        smb://IP/
     
 ## Nmap Check which Port open and run smb server and version 
 
@@ -23,8 +29,6 @@ Network file sharing protocol that allows apllications on computer to read and w
 1. Open file and search
 
       smb://IP/
-   
-## Nmap Check which Port open and run smb server and version
 
 ## Use Nmap script like
 
