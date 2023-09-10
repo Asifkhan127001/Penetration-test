@@ -22,8 +22,10 @@ Network file sharing protocol that allows apllications on computer to read and w
 
 1. Open file and search
 
-    smb://IP/
+      smb://IP/
    
+## Nmap Check which Port open and run smb server and version
+
 ## Use Nmap script like
 
      smb-enum-shares.nse
