@@ -14,6 +14,9 @@ Network file sharing protocol that allows apllications on computer to read and w
 
     nmap -p 445 --script smb-enum-shares IP
 
+## Enumerating User
+     nmap -p 445 --script smb-enum-users IP
+     
 ## Connect SMB GUI Method 
 
 1. Open file and search
