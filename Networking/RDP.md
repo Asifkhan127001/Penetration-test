@@ -7,5 +7,8 @@
 
 1. Check for running services on the target and confirm if RDP is running on any open port
 2. use metasploit to confirm the services running is RDP
-3. use Hydra to brute force the login credentials
-4. use and RDP tools to login into the victim's machine
+
+     use auxiliary/scanner/rdp/rdp_scanner
+   
+4. use Hydra to brute force the login credentials
+5. use and RDP tools to login into the victim's machine
