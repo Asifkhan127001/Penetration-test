@@ -28,7 +28,7 @@
 
 ## Telnet Login 
    
-    telnet IP
+    telnet IP PORT
     
 ## Telnet Config File
    
