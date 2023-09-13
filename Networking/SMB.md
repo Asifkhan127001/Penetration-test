@@ -29,7 +29,11 @@ Network file sharing protocol that allows apllications on computer to read and w
 ## SMB share File LOGIN 
 
     smbclient //10.10.13.226/asif
-    
+
+## SMB LOGIN SMB share called "secret" user "asif"
+
+     smbclient //10.10.10.2/secret -U suit -p 445
+
 ## Enumerating Services
 
     nmap -p 445 --script smb-enum-services --script-aigs smbusername=administrator,smbpassword=smbserver_771 IP
