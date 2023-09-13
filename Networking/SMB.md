@@ -62,6 +62,7 @@ Network file sharing protocol that allows apllications on computer to read and w
 ## Check Anonymous Login
 
     smbclient //10.10.141.111/anonymous
+    smbclient //$ip/filename -U Anonymous
     
     
 ## Downlods smb server file 
