@@ -41,7 +41,7 @@
   ## SSH LOGIN
     
     ssh username@IP
-    SSH -i key Login
+    SSH -i id_rsa asif@10.10.12.23
     
  ## Brute Force  
  
