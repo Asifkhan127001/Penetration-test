@@ -30,6 +30,10 @@ Network file sharing protocol that allows apllications on computer to read and w
 
     smbclient //10.10.13.226/asif
 
+## SMB Server File Read
+
+     more "key.txt"
+     
 ## SMB LOGIN SMB share called "secret" user "asif"
 
      smbclient //10.10.10.2/secret -U suit -p 445
