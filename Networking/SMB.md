@@ -39,11 +39,6 @@ Network file sharing protocol that allows apllications on computer to read and w
 
     nmap -p139,445 -sV 
         
-## Connect SMB GUI Method 
-
-1. Open file and search
-
-      smb://IP/
 
 ## Use Nmap script like
 
