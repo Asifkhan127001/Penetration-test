@@ -26,6 +26,10 @@ Network file sharing protocol that allows apllications on computer to read and w
 
     nmap -sC -sV -A -T4 -p 445 IP
 
+## SMB share File LOGIN 
+
+    smbclient //10.10.13.226/asif
+    
 ## Enumerating Services
 
     nmap -p 445 --script smb-enum-services --script-aigs smbusername=administrator,smbpassword=smbserver_771 IP
