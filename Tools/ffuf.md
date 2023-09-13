@@ -4,7 +4,7 @@ ffuf stands for Fuzz Faster U Fool. It's a tool used for web enumeration, fuzzin
 
 ## [Basic use](#basic-use)
 
-## [Stop False result](#Filter HTTP response size)
+## [Stop False result](#Filter-HTTP-response-size)
 
 ## [Add Some Word in wordlist](#add-some-word-in-wordlist)
 
