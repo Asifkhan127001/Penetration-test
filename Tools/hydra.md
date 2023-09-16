@@ -34,4 +34,5 @@ This tool makes it possible for researchers and security consultants to show how
 some time see the Webappliction page lock use usename and password and enter this page 
 
     hydra -l asif -P rockyou.txt -f 1IP  -s PORT http-get 
+    hydra -l asif -P rockyou.txt -f 1IP  -s PORT http-get /login.php/
   
