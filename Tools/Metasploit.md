@@ -12,6 +12,7 @@ Metasploit is Open Source Most Fames Tools For Cyber Security
 ## MetaSploit Start
 
     systemctl start postgresql
+    msfdb init
 
 ## Basic Use Metasploit
 
