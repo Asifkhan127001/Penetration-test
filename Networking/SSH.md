@@ -46,3 +46,7 @@
  ## Brute Force  
  
     hydra -l user -P passlist.txt ftp://192.168.0.1
+
+## Donlods Server Uploded File
+
+    scp your_username@remotehost.edu:foobar.txt /local/dir
