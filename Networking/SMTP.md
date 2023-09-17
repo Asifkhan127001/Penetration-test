@@ -18,3 +18,10 @@ SMTP is Sand Mail porotocol
     smtp-vuln-cve2010-4344.nse
     smtp-vuln-cve2011-1720.nse
     smtp-vuln-cve2011-1764.nse
+
+
+## Metasploit 
+
+     auxiliary/scanner/smtp/smtp_version
+     auxiliary/scanner/smtp/smtp_enum
+     auxiliary/client/smtp/emailer
