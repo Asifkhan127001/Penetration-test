@@ -49,4 +49,4 @@
 
 ## Donlods Server Uploded File
 
-   scp flag.txt mark@10.10.159.198:/home/flag-directory/
+    scp flag.txt mark@10.10.159.198:/home/flag-directory/
