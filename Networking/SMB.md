@@ -41,11 +41,12 @@ Network file sharing protocol that allows apllications on computer to read and w
 ## Enumerating Services
 
     nmap -p 445 --script smb-enum-services --script-aigs smbusername=administrator,smbpassword=smbserver_771 IP
+    
 ## Connect SMB GUI Method 
 
 1. Open file and search
 
-   smb://IP/
+     smb://IP/
     
 ## Nmap Check which Port open and run smb server and version 
 
