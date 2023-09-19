@@ -5,19 +5,16 @@ The File Transfer Protocol is a standard communication protocol used for the tra
 
 # FTP ENUMERATION
   
- ## STEP 1
-  Use Nmap Find Information
+## Use Nmap Find Information
   
     nmap -A -p21 IP
    
- ## STEP 2
- 
- first Cheack Anonymous Login use nmap script 
+## first Cheack Anonymous Login use nmap script 
    
     ftp-anon.nse
     
- ## Step 3
- use some nmap script just like 
+
+## use some nmap script just like 
  
     ftp-anon.nse
     ftp-brute.nse
@@ -25,24 +22,21 @@ The File Transfer Protocol is a standard communication protocol used for the tra
     ftp-syst.nse
     etc.....    
      
-  ## STEP 4
-  use Metasploit auxiliary  
+## use Metasploit auxiliary  
   
     auxiliary/scanner/ftp/anonymous
     auxiliary/scanner/ftp/ftp_version
     auxiliary/scanner/ftp/ftp_login
     etc....
     
-  ## STEP 5
-  ## BANNER GRABBING
+## BANNER GRABBING
    Banner Grabbing is Find Service Version Information
    
      telnet IP 21
      nmap -sV --script=banner IP
      nc IP 21
     
-  ### STEP 6
-  search exploit like
+## search exploit like
   
     google.com
     searchsploit
@@ -50,18 +44,15 @@ The File Transfer Protocol is a standard communication protocol used for the tra
     github
     etc.....
     
-  ## STEP 7
-   Ftp Login
+## Ftp Login
   
     ftp Ip
     
-  ## STEP 8 
-  Brute Force 
+## Brute Force 
   
      hydra -l user -P passlist.txt ftp://192.168.0.1
      
-  ## STEP 9
-  Downlods file in ftp server like
+## Downlods file in ftp server like
      
      get file.txt
    
