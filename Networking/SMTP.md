@@ -25,3 +25,11 @@ SMTP is Sand Mail porotocol
      auxiliary/scanner/smtp/smtp_version
      auxiliary/scanner/smtp/smtp_enum
      auxiliary/client/smtp/emailer
+
+## BANNER GRABBING
+
+   Banner Grabbing is Find Service Version Information
+   
+     telnet IP 21
+     nmap -sV --script=banner IP
+     nc IP 21
