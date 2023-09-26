@@ -56,9 +56,9 @@ The File Transfer Protocol is a standard communication protocol used for the tra
      
      get file.txt
 
- ## Ftp File Uploads 
+ ##  File Uploads 
 
-      put asif.txt
+     put asif.txt
       
  ## FTP CONFIG FILE 
  
