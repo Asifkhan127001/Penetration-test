@@ -55,7 +55,11 @@ The File Transfer Protocol is a standard communication protocol used for the tra
 ## Downlods file in ftp server like
      
      get file.txt
-   
+
+ ## Ftp File Uploads 
+
+      put asif.txt
+      
  ## FTP CONFIG FILE 
  
     /etc/vsftpd.conf
